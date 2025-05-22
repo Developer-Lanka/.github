@@ -2,7 +2,7 @@
 
 Welcome to **Developer Lanka** — your trusted partner for cutting-edge software solutions in 🇱🇰 Sri Lanka!
 
-![Developer Lanka Banner]([https://developerlanka.com/assets/images/logo.png](https://developerlanka.com/)) <!-- Replace with actual banner image URL if available -->
+![Developer Lanka Banner](https://developerlanka.com/assets/images/logo.png) <!-- Replace with actual banner image URL if available -->
 
 ---
 
